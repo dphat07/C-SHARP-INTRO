@@ -1,0 +1,14 @@
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\bin\Debug\net8.0\Lesson1.exe
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\bin\Debug\net8.0\Lesson1.deps.json
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\bin\Debug\net8.0\Lesson1.runtimeconfig.json
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\bin\Debug\net8.0\Lesson1.dll
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\bin\Debug\net8.0\Lesson1.pdb
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.AssemblyInfoInputs.cache
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.AssemblyInfo.cs
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.csproj.CoreCompileInputs.cache
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.dll
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\refint\Lesson1.dll
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.pdb
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\Lesson1.genruntimeconfig.cache
+D:\Unity_Learn\C-SHARP-INTRO\Lesson1\obj\Debug\net8.0\ref\Lesson1.dll
